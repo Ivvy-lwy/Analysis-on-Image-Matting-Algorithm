@@ -1,1 +1,3 @@
 # Analysis-on-Image-Matting-Algorithm
+
+This project compares two deep learning algorithms of automatic image matting without a manually created trimap. Most previous matting methods require user interaction to provide the trimap to recognize complex regions like hair. Semantic Human Matting (SHM) and Glance and Focus Matting network (GFM) are two algorithms that learn semantic information from a RGB image and produce fine alpha mattes without human interaction. We are going to reproduce the experimental results on a portrait image dataset (P3M-10k), and perform sensitivity analysis on how the training image is preprocessed would affect the performance of the SHM model. In addition, the two models would be tested on a new natural animal dataset (AM-2K).
