@@ -5,7 +5,7 @@ In the realms of deep learning and computer vision, image matting stands out as 
 
 This project delves into a comparative analysis between two deep learning algorithms—Semantic Human Matting (SHM) and Glance and Focus Matting Network (GFM)—that have been developed to transcend this limitation. These algorithms are exemplary in their ability to autonomously learn semantic information directly from RGB images, thereby generating high-quality alpha mattes without necessitating human interaction.
 
-Read the complete report [here](csc413-team 90-project report.pdf)
+Read the complete report [here](https://github.com/Ivvy-lwy/Analysis-on-Image-Matting-Algorithm/blob/main/csc413-team%2090-project%20report.pdf).
 
 ## Method / Algorithm
 ### Semantic Human Matting (SHM)
