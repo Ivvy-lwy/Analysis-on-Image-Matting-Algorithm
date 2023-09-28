@@ -1,5 +1,8 @@
 # Analysis of Autonomous Image Matting Algorithms: SHM vs. GFM
 
+## Overview
+This project is part of the University of Toronto CSC413 Neural Networks & Deep Learning coursework. It focuses on leveraging machine learning algorithms to predict the likelihood of students correctly answering specific diagnostic questions in an online education setting. The predictions are based on the students' prior responses to other questions and the responses from other students.
+
 ## Description
 In the realms of deep learning and computer vision, image matting stands out as a prominent technique for the discerning extraction of foregrounds from varied backgrounds. Traditionally, most image matting methodologies necessitate user-generated trimaps to tackle intricate regions like hair, a step that often becomes a bottleneck for automation.
 
